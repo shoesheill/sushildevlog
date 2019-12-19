@@ -1,23 +1,20 @@
 social_icons:
-  - title: Twitter
+  - icon: fa-twitter
+    title: Twitter
     url: '#'
-    icon: fa-twitter
-  - title: Facebook
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-    icon: fa-facebook
-  - title: LinkedIn
+  - icon: fa-linkedin
+    title: LinkedIn
     url: '#'
-    icon: fa-linkedin
-  - title: Github
+  - icon: fa-github
+    title: Github
     url: '#'
-    icon: fa-github
-  - title: Email
+  - icon: fa-envelope
+    title: Email
     url: '#'
-    icon: fa-envelope
 copyright: >-
   &copy; Construct. All rights reserved. Lorem ipsum dolor sit amet nullam
   consequat.
-links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+links: []
